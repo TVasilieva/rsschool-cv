@@ -25,7 +25,7 @@
 > 2. 2018-2020 typography manager
 > 3. 2020 farm manager
 ## Education
-    Высшее экономическое образование в БГТУ. Курсы по HTML и CSS.
+    Высшее экономическое образование в БГТУ (менеджер-экономист). Курсы по HTML и CSS.
 ## Languages
 * *English*: B1. I have been learning English since the third grade. I have a translator's crust from the university.
 * *German*: A1.
