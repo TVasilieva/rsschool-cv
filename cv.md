@@ -7,7 +7,8 @@
 
 ## Contacts
 > * **Mobile**: +375 (29) 89 333 20 
-> * **Email**: [tonya_verkooijen@mail.ru](tonya_verkooijen@mail.ru)
+> * **Email**: tonya_verkooijen@mail.ru
+> * **Vk.vom**: [Тоня Васильева](vk.com/about.that.life)
 > * **Telegram**: [Antonina Vasilieva](@Tonya_yanot)
 > * **Github**: [TVasilieva](https://github.com/TVasilieva) 
 ## About me
