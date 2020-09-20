@@ -1,0 +1,30 @@
+h2 {
+   width: 1024px;
+   text-align: center;
+}
+
+p {
+    width: 1024px;
+    text-align: center;
+    font-size: 18px;
+}
+
+ul {
+    width: 1024px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.pic {
+    margin: auto;
+}
+
+ol {
+    width: 1024px;
+    text-align: center; 
+    font-size: 18px; 
+}
+
+li {
+    text-align: center; 
+}
