@@ -11,9 +11,10 @@
 > * **Vk.vom**: [Тоня Васильева](vk.com/about.that.life)
 > * **Telegram**: [Antonina Vasilieva](@Tonya_yanot)
 > * **Github**: [TVasilieva](https://github.com/TVasilieva) 
+
 ## About me
-     
     Since school I like to work with numbers and immerse myself with tasks. That's all for now, I still need to have time to deal with the github.
+
 ## Skills
     Previously took paid courses in <abbr title = "HTML">HTML</abbr>, <abbr title = "HTML">CSS</abbr>.
 
@@ -25,8 +26,10 @@
 > 1. 2015-2019 promoter 
 > 2. 2018-2020 typography manager
 > 3. 2020 farm manager
+
 ## Education
     Высшее экономическое образование в БГТУ (менеджер-экономист). Курсы по HTML и CSS.
+    
 ## Languages
 * *English*: B1. I have been learning English since the third grade. I have a translator's crust from the university.
 * *German*: A1.
